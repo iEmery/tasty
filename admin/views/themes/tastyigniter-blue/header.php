@@ -120,7 +120,7 @@
 
 				<ul class="nav navbar-top-links navbar-right">
 					<li class="dropdown">
-						<a class="front-end" title="<?php echo lang('menu_storefront'); ?>" href="<?php echo root_url(); ?>" target="_blank">
+						<a class="front-end" title="HOTELDRUID" href="http://localhost/hoteldruid">
 							<i class="fa fa-home"></i>
 						</a>
 					</li>
